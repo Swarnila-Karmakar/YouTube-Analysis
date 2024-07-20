@@ -1,0 +1,30 @@
+﻿Installing python libraries : 
+
+
+1. pip install pandas 
+2. pip install matplotlib
+3. pip install seaborn
+4. pip install --upgrade google-api-python-client 
+
+
+
+
+Youtube channels used : 
+
+
+1. Kreatryx Gate EE&EC : UCXFxwj7DwumpUu5RNWlznTw
+2. Neso Academy : UCQYMhOMi_Cdj1CEAU-fv80A
+3. Mortal : UC7Q7pl0z0MrdayvmAnchlJQ
+4. Code with harry : UCeVMnSShP_Iviwkknt83cww
+5. Shef : UCu7Ld2o0QnLPm4j0gCn7Agw
+6. Ashish Solanki : UCaUr7y4F9lWGnZ0cbUZyzYA
+
+
+
+
+Websites used : 
+
+
+1. For extracting youtube ids : https://commentpicker.com/youtube-channel-id.php
+2. For JSON code formating : https://jsonformatter.curiousconcept.com/
+3. Google codes for youtube data extraction : https://developers.google.com/youtube/v3
